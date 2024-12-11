@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu-mahapatra-jtp&label=Profile%20views&color=brightgreen&style=flat-square" alt="devanshu-mahapatra-jtp" /> </p>
+
+
+[![Devanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshu-mahapatra-jtp&theme=tokyo-night)](https://github.com/devanshu-mahapatra-jtp/github-readme-activity-graph)
+
+
 <!--
 **devanshu-mahapatra-jtp/devanshu-mahapatra-jtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
